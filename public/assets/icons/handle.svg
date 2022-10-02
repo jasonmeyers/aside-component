@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="48px" viewBox="0 0 10 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Flow</title>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shell/Aside/Resize-Handle" transform="translate(1.000000, -516.000000)">
+            <g id="Flow" transform="translate(-1.000000, 516.000000)">
+                <rect id="Handle" stroke="#99C9E9" fill="#FFFFFF" x="0.5" y="0.5" width="9" height="47" rx="1"></rect>
+                <path d="M5,16 C6.1045695,16 7,15.1045695 7,14 C7,12.8954305 6.1045695,12 5,12 C3.8954305,12 3,12.8954305 3,14 C3,15.1045695 3.8954305,16 5,16 Z M5,26 C6.1045695,26 7,25.1045695 7,24 C7,22.8954305 6.1045695,22 5,22 C3.8954305,22 3,22.8954305 3,24 C3,25.1045695 3.8954305,26 5,26 Z M5,36 C6.1045695,36 7,35.1045695 7,34 C7,32.8954305 6.1045695,32 5,32 C3.8954305,32 3,32.8954305 3,34 C3,35.1045695 3.8954305,36 5,36 Z" id="Dots" fill="#99C9E9"></path>
+            </g>
+        </g>
+    </g>
+</svg>
